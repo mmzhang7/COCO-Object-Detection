@@ -1,0 +1,22 @@
+{
+  "split": {
+    "seed": 42,
+    "requested_test_size": 500,
+    "actual_test_size": 500,
+    "total_train_images": 8000,
+    "sampled_train_images": 2000,
+    "non_sampled_pool": 6000
+  },
+  "models": {
+    "yolo_resnet50_sgd_best": {
+      "ap": 0.46074095925170183,
+      "ap50": 0.6267412850299771,
+      "ap75": 0.4963372205098144
+    },
+    "fasterrcnn_resnet50_sgd_latest": {
+      "ap": 0.11061270748031937,
+      "ap50": 0.24481489824884334,
+      "ap75": 0.07978975331211947
+    }
+  }
+}

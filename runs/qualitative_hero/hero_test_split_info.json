@@ -1,0 +1,8 @@
+{
+  "seed": 42,
+  "requested_test_size": 500,
+  "actual_test_size": 500,
+  "total_train_images": 8000,
+  "sampled_train_images": 2000,
+  "non_sampled_pool": 6000
+}

@@ -1,0 +1,13 @@
+{
+  "family": "yolo",
+  "backbone": "resnet50",
+  "optimizer": "sgd",
+  "status": "ok",
+  "train_seconds": 812.2081098556519,
+  "ap": 0.363869077352785,
+  "ap50": 0.5122125841933018,
+  "ap75": 0.383012207823357,
+  "resumed": false,
+  "resume_from": null,
+  "checkpoint_path": null
+}
