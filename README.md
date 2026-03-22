@@ -1,5 +1,7 @@
 # COCO Object Detection: YOLO vs Faster R-CNN (Constrained Compute)
 
+A video recording of the presentation of this project can be found at [Youtube](https://www.youtube.com/watch?v=Ox1L8beEo-4) 
+
 This repository compares YOLO and Faster R-CNN on COCO-style data under strict single-GPU constraints (RTX 3050 Ti 4GB), including:
 
 - Short-schedule ablations (10 epochs)
